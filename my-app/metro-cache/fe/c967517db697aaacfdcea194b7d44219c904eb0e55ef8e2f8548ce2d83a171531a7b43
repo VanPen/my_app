@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"@babel/runtime/helpers/interopRequireDefault","data":{"isAsync":false}},{"name":"./GoogleUser","data":{"isAsync":false}}],"output":[{"data":{"code":"__d(function(g,r,i,a,m,e,d){r(d[0])(r(d[1]))});","map":[[1,35,2,0,"_interopRequireDefault"],[1,36,2,0,"r"],[1,38,2,0,"d"],[1,40,2,0]]},"type":"js/module"}]}

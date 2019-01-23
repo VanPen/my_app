@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./src/BarCodeScanner","data":{"isAsync":false}}],"output":[{"data":{"code":"__d(function(g,r,i,a,m,e,d){m.exports={get BarCodeScanner(){return r(d[0]).default}}});","map":[[1,28,2,0,"module"],[1,30,2,7,"exports"],[1,39,3,2,"BarCodeScanner"],[1,60,4,4],[1,67,4,11,"require"],[1,69,4,18,"d"],[1,71,4,18],[1,75,4,43,"default"]]},"type":"js/module"}]}

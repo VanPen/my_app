@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./src/LocalAuthentication","data":{"isAsync":false}}],"output":[{"data":{"code":"__d(function(g,r,i,a,m,e,d){m.exports={get LocalAuthentication(){return r(d[0])}}});","map":[[1,28,3,0,"module"],[1,30,3,7,"exports"],[1,39,4,2,"LocalAuthentication"],[1,65,5,4],[1,72,5,11,"require"],[1,74,5,18,"d"],[1,76,5,18]]},"type":"js/module"}]}
